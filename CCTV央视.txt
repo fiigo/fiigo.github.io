@@ -596,12 +596,6 @@ hardwell交响电音进化史1978-1998[1920*1080],http://al.hls.huya.com/backsrc
 林正英2,http://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
 古惑仔,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 周星驰古装,http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-憨豆特工3,https://zk.wb699.com/2018/12/22/ffrZIFvvmA4AxSaW/playlist.m3u8
-无畏之中途岛大战,https://cn4.7639616.com/hls/20191106/9b2a40f44b10b2f2add46a191eb78fb4/1573012697/index.m3u8
-越战2019,https://cn6.7639616.com/hls/20191208/be47373f70fd717422f15c6fa6306b2b/1575775496/index.m3u8
-齐影视神话,https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-齐影视电视,https://dlhls-cdn-mp.zhanqi.tv/zqlive/295803_fLcJv.m3u8
-齐影视武侠,https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8
 
 音乐台,#genre#
 凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
